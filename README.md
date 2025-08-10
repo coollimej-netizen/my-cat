@@ -20,6 +20,7 @@
       padding: 10px 15px;
       cursor: pointer;
       border-radius: 5px;
+      z-index: 1001;
     }
 
     /* 사이드 패널 */
@@ -34,6 +35,7 @@
       padding: 20px;
       box-sizing: border-box;
       transition: right 0.3s ease;
+      z-index: 1000;
     }
 
     /* 패널 열렸을 때 */
@@ -75,7 +77,11 @@
   <div class="side-panel" id="panel">
     <button class="close-btn" onclick="closePanel()">X</button>
     <h2>애용이랑 할 수 있는 것</h2>
-    <p>같이 자기, TV 보기, 같이 있기</p>
+    <ul>
+      <li>같이 자기</li>
+      <li>TV 보기</li>
+      <li>같이 있기</li>
+    </ul>
   </div>
 
   <script>
