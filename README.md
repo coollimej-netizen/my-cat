@@ -63,6 +63,5 @@
 </script>
 <img src="images/photo.png" alt="naju.jpg.png" style="width:300px;">
 
-
 </body>
 </html>
