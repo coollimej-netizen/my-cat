@@ -61,7 +61,7 @@
     document.getElementById('sidePanel').classList.remove('open');
   }
 </script>
-<img src="images/photo.png" alt="naju.jpg." style="width:300px;">
+<img src="images/photo.png" alt="naju.jpg.png" style="width:300px;">
 
 
 </body>
