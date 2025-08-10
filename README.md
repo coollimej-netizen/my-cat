@@ -61,7 +61,7 @@
     document.getElementById('sidePanel').classList.remove('open');
   }
 </script>
-<img src="naju.jpg" alt="나주 사진" width="400">
+<img src="naju.jpg.jpg" alt="나주 사진" width="400">
 
 </body>
 </html>
