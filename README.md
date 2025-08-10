@@ -61,6 +61,8 @@
     document.getElementById('sidePanel').classList.remove('open');
   }
 </script>
+<img src="images/photo.png" alt="나주 사진" style="width:300px;">
+
 
 </body>
 </html>
