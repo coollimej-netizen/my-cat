@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
-  애용 홈페이지
+  <title>애용 홈페이지</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -53,6 +53,7 @@
       width: 25px;
       height: 25px;
       cursor: pointer;
+      font-weight: bold;
     }
 
     /* 본문 내용 */
@@ -74,7 +75,7 @@
   <div class="side-panel" id="panel">
     <button class="close-btn" onclick="closePanel()">X</button>
     <h2>애용이랑 할 수 있는 것</h2>
-    <p>같이 자기,tv보기,같이 있기</p>
+    <p>같이 자기, TV 보기, 같이 있기</p>
   </div>
 
   <script>
