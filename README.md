@@ -45,7 +45,7 @@
 
 <div class="side-panel" id="sidePanel">
   <button class="close-btn" onclick="closePanel()">X</button>
-  <h2>메뉴</h2>
+  <h2>같이 하는것.</h2>
   <ul>
     <li>같이 자기</li>
     <li>tv보기</li>
