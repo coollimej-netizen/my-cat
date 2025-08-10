@@ -99,8 +99,9 @@
 <body>
     <h1>메뉴</h1>
     <div class="menu">
-        <button onclick="location.href='https://www.naver.com'">체크인</button>
-        <button onclick="location.href='https://www.google.com'">타자연습</button>
+        <button onclick="location.href='https://coollimej-netizen.github.io/herrch/'">체크인</button>
+        <button onclick="location.href='https://coollimej-netizen.github.io/typing/'">타자연습</button>
+        <button onclick="location.href='https://coollimej-netizen.github.io/naju/'">나주 홈페이지</button>
     </div>
 </body>
 </html>
