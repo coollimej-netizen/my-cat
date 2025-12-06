@@ -102,7 +102,6 @@
         <button onclick="location.href='https://coollimej-netizen.github.io/herrch/'">체크인</button>
         <button onclick="location.href='https://coollimej-netizen.github.io/typing/'">타자연습</button>
        <button onclick="location.href='https://coollimej-netizen.github.io/CAT/'">애용이가 좋아하는 것</button>
-        <button onclick="location.href='https://coollimej-netizen.github.io/herrch/'">애용앱스토에</button>
     </div>
 </body>
 </html>
