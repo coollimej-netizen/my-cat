@@ -100,8 +100,9 @@
     <h1>메뉴</h1>
     <div class="menu">
         <button onclick="location.href='https://coollimej-netizen.github.io/herrch/'">체크인</button>
-        <button onclick="location.href='https://coollimej-netizen.github.io/typing/'">타자연습</button>
+       <button onclick="location.href='https://coollimej-netizen.github.io/typing/'">타자연습</button>
        <button onclick="location.href='https://coollimej-netizen.github.io/CAT/'">애용이가 좋아하는 것</button>
+      <button onclick="location.href='https://forms.gle/ZsbxQTdr8xjeJmha6'">프로그램 접수</button>
     </div>
 </body>
 </html>
